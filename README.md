@@ -5,16 +5,13 @@
 
 - 🔭 I’m currently working on [Workout Dashboard](https://github.com/mubashird04/workout_dashboard)  
   
-
 - 🌱 I’m currently learning Rust and Docker  
   
-
 - ❓ Ask me about anything related to spring boot and OOP  
   
-
 - ⚡ Fun fact: I like data  
   
-
+- 🤔 I’m looking for help with real project experience
 <br/>  
 
 
@@ -74,14 +71,16 @@
 
 <br/>  
 
-Featured Projects
-<table> <tr> <td> <b><a href="#">Project One</a></b><br/> One line on what it does and why it's interesting. </td> </tr> <tr> <td> <b><a href="#">Project Two</a></b><br/> One line on what it does and why it's interesting. </td> </tr> </table> <br/>
+## Featured Projects
+<table> 
+  <tr> <td> <b><a href="https://github.com/mubashird04/workout_dashboard">Workout Dashboard</a></b>
+    <br/> A dashboard that allows clients and trainers to track workout data and view it comfortably, with an ai chatbot that uses workout data via RAG for support. It's an interesting project as a lot was learnt about handling data with databases and setting up proper authentication, as well as the integration of a chatbot with RAG implementation. </td> </tr> 
+  <tr> <td> <b><a href="https://github.com/mubashird04/social_network_rag">Social Network Rag</a></b>
+    <br/> A powerful social network analysis tool that turns raw group chat exports into an interactive directed graph and exposes that analysis. This project was used to learn about using FastApi and implementing mcp access but along the way a lot was learnt about sentence analysis. </td> </tr> 
+</table> <br/>
 
 ## Connect with me  
 <p align="left">
-  <a href="https://github.com/MubashirD04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://x.com/DevByMubs" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>

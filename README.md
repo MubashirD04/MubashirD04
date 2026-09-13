@@ -76,7 +76,7 @@
   <tr> <td> <b><a href="https://github.com/mubashird04/workout_dashboard">Workout Dashboard</a></b>
     <br/> A dashboard that allows clients and trainers to track workout data and view it comfortably, with an ai chatbot that uses workout data via RAG for support. It's an interesting project as a lot was learnt about handling data with databases and setting up proper authentication, as well as the integration of a chatbot with RAG implementation. </td> </tr> 
   <tr> <td> <b><a href="https://github.com/mubashird04/social_network_rag">Social Network Rag</a></b>
-    <br/> A powerful social network analysis tool that turns raw group chat exports into an interactive directed graph and exposes that analysis. This project was used to learn about using FastApi and implementing mcp access but along the way a lot was learnt about sentence analysis. </td> </tr> 
+    <br/> A powerful social network analysis tool that turns raw group chat exports into an interactive directed graph and exposes that analysis. This project was used to learn about using FastAPI and implementing MCP access but along the way a lot was learnt about sentence analysis and applying this to make models understand speech patterns.</td> </tr> 
 </table> <br/>
 
 ## Connect with me  
